@@ -1,3 +1,4 @@
+![Task App](app.png)
 # TaskApp
 Terminal based task management application.
 
